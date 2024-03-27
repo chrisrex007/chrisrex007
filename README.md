@@ -1,4 +1,4 @@
-#### Hi, I am Krish Charniya, a First Year Undergraduate Student @ IIT Kharagpur
+### Hi, I am Krish Charniya, a First Year Undergraduate Student @ IIT Kharagpur
 -  I am interested in Gaming & Coding.
 -  I'm presently sharpening my coding skills at a Foundation level, diving deep into core principles and innovative solutions.
 -  My_Gmail: krishcharniya007@gmail.com
